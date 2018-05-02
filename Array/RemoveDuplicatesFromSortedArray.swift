@@ -1,3 +1,4 @@
+/// 执行时间36ms
 func removeDuplicates(_ nums: inout [Int]) -> Int {
     if nums.count < 2 {
         return nums.count
